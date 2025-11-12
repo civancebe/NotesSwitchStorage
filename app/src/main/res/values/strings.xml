@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="main_header">Your notes</string>
+    <string name="delete_header">Select a note to delete</string>
+
+    <string name="label_name">Note name</string>
+    <string name="label_content">Note content</string>
+    <string name="hint_name">e.g., Shopping List</string>
+    <string name="hint_content">Type your note here...</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+
+    <string name="menu_add">Add Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="menu_storage">Storage</string>
+    <string name="menu_use_prefs">Use SharedPreferences</string>
+    <string name="menu_use_files">Use Files</string>
+
+    <string name="validation_empty">Name and content cannot be empty.</string>
+    <string name="validation_select_note">Please select a note to delete.</string>
+    <string name="saved">Saved.</string>
+    <string name="save_failed">Save failed.</string>
+    <string name="deleted">Deleted.</string>
+    <string name="delete_failed">Delete failed.</string>
+    <string name="switched_to_prefs">Switched to SharedPreferences.</string>
+    <string name="switched_to_files">Switched to Files.</string>
+</resources>
